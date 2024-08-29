@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-de-sousa/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanprog&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanprog&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanprog&show_icons=true&theme=tokyonight&layout=compact)
 
 ## Tecnologias que uso no dia-dia
 
