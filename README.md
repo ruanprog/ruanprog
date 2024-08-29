@@ -5,6 +5,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanprog&show_icons=true&theme=tokyonight
 )
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanprog&layout=compact)
+
 ## Tecnologias que uso no dia-dia
 
 <div style="display: inline_block"><br/>
@@ -21,7 +23,15 @@
   ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)</br>
   	![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
    ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-</div>  
+</div> </br>
+
+Apaixonado por tecnologia e aficcionado por aprender.
+
+
+
+
+
+
 <!--
 **ruanprog/ruanprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
