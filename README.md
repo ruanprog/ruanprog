@@ -30,6 +30,6 @@
 
 </div> </br>
 
-Apaixonado por tecnologia e aficcionado por aprender.</br>
+## Apaixonado por tecnologia e aficcionado por aprender.</br>
 
 ![Snake animation](https://github.com/ruanprog/ruanprog/blob/output/github-contribution-grid-snake.svg)
